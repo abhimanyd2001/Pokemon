@@ -1,0 +1,1 @@
+Object Oriented Programming with Classes in Python. I designed a combat simulator from the Pokemon Video game, where you can create these creatures and have them fight each other. The Pokemon class is designed to handle the internal member variables associated with each pokemon, and the Trainer class abstracts upon this class, containing multiple pokemon and using them to battle.
